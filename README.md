@@ -1,16 +1,4 @@
-# flutter_card_page_ui_design
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="center" src="https://github.com/onderozduyucu/flutter_card_page_ui_design/assets/149434617/7e23022c-c16c-4147-99d5-c88953d81dd4.gif" alt="(sonra gir)" width="204" height="434" />
